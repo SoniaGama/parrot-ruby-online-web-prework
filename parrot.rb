@@ -2,4 +2,5 @@
 # returns the phrase
 def parrot(String, argument = "Squawk!")
   puts ${argument}
+  ${argument}
 end
